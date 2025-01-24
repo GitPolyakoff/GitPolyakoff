@@ -56,6 +56,12 @@
 
 ###
 
+<p align="center">
+ <img width="600" src="resources/github-snake.svg" alt="snake"/>
+</p>
+
+###
+
 <h3 align="left">🛠 Технологии:</h3>
 
 ###
