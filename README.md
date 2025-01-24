@@ -29,7 +29,7 @@
   <a href="https://github.com/GitPolyakoff" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
-  <a href="https://steamcommunity.com/id/76561199147759312" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199147759312/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="steam logo"  />
   </a>
 </div>
