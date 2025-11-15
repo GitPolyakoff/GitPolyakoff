@@ -7,8 +7,6 @@
 <h1 align="center">Привет 👋 Я Polyakoff!</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/GitPolyakoff?color=yellow&label=Stars&style=for-the-badge" alt="Total Stars" />
-
   <img src="https://img.shields.io/github/stars/GitPolyakoff?color=yellow&label=Total%20Stars&style=for-the-badge" alt="Total Stars" />
 
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Logo" />
