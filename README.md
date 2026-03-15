@@ -4,50 +4,48 @@
 
 ###
 
-<h1 align="center">Привет 👋 Я Polyakoff!</h1>
+<h1 align="center">Hi 👋 I'm Polyakoff</h1>
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/GitPolyakoff?color=yellow&label=Total%20Stars&style=for-the-badge" alt="Total Stars" />
 
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# Logo" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=GitPolyakoff.GitPolyakoff" />
 
-  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework" />
+<img src="https://img.shields.io/github/stars/GitPolyakoff?style=flat&label=Total%20Stars&color=yellow" />
 
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Core" />
-
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio" />
 </div>
 
 ###
+
+<h3 align="left">📫 Contact</h3>
 
 <div align="center">
   <a href="https://discord.com/users/913793634376241192" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"/>
   </a>
   <a href="https://github.com/GitPolyakoff" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"/>
   </a>
   <a href="https://steamcommunity.com/profiles/76561199147759312/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="steam logo"  />
+    <img src="https://img.shields.io/static/v1?message=Steam&logo=steam&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="steam logo"/>
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=GitPolyakoff.GitPolyakoff&"  />
-</div>
+<h3 align="left">🛠 Technologies</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,cpp,cs,dotnet,html,css,js,mysql,php" />
+</p>
 
 ###
 
-<h3 align="left">👨‍💻 Обо мне</h3>
-
-###
+<h3 align="left">👨‍💻 About me</h3>
 
 <p align="left">
-Мне 21 год, и я окончил среднее профессиональное образование по квалификации "Программист". В настоящее время получаю высшее образование. В свободное время я увлекаюсь программированием и компьютерными играми.  
+I am 21 years old and graduated from a vocational college with a qualification as a "Programmer". Currently I am pursuing higher education. In my free time I enjoy programming and playing computer games.
 <br><br>
-На GitHub я время от времени выкладываю свои Pet-проекты, в которых отрабатываю навыки, реализую собственные идеи и просто получаю удовольствие от разработки.
+From time to time I publish my pet projects on GitHub where I practice my skills, implement my own ideas and simply enjoy the development process.
 <br><br>
 </p>
 
@@ -59,16 +57,7 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
-
-###
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=git,cs,dotnet,visualstudio,vscode" />  
-</p>
-
----
-
-<h3 align="left">🔥 Моя статистика :</h3>
+<h3 align="left">🔥 My Statistics</h3>
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitPolyakoff&theme=2077" alt="Profile Details" />
