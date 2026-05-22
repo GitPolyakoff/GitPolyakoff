@@ -10,8 +10,6 @@
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=GitPolyakoff.GitPolyakoff" />
 
-<img src="https://img.shields.io/github/stars/GitPolyakoff?style=flat&label=Total%20Stars&color=yellow" />
-
 </div>
 
 ###
