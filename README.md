@@ -55,16 +55,16 @@ From time to time I publish my pet projects on GitHub where I practice my skills
 
 ###
 
-<h3 align="left">🔥 My Statistics</h3>
+<h3 align="left">📊 My Statistics</h3>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitPolyakoff&theme=2077" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GitPolyakoff&theme=bear" alt="Profile Details" />
 </div>
 <br />
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GitPolyakoff&theme=2077" alt="Stats" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GitPolyakoff&theme=2077&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=GitPolyakoff&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GitPolyakoff&theme=bear&hide_border=true" alt="GitHub Streak" />
 </div>
 <br />
 
