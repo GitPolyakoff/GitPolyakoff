@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
-
-###
-
 <h1 align="center">Hi 👋 I'm Polyakoff</h1>
 
 <div align="center">
@@ -13,8 +7,6 @@
 </div>
 
 ###
-
-<h3 align="left">📫 Contact</h3>
 
 <div align="center">
   <a href="https://discord.com/users/913793634376241192" target="_blank">
@@ -30,32 +22,13 @@
 
 ###
 
-<h3 align="left">🛠 Technologies</h3>
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,visualstudio,vscode,cpp,cs,dotnet,html,css,js,mysql,php" />
-</p>
-
-###
-
-<h3 align="left">👨‍💻 About me</h3>
-
-<p align="left">
-I am 21 years old and graduated from a vocational college with a qualification as a "Programmer". Currently I am pursuing higher education. In my free time I enjoy programming and playing computer games.
-<br><br>
-From time to time I publish my pet projects on GitHub where I practice my skills, implement my own ideas and simply enjoy the development process.
-<br><br>
-</p>
-
-###
-
 <p align="center">
  <img width="600" src="resources/github-snake.svg" alt="snake"/>
 </p>
 
 ###
 
-<h3 align="left">📊 My Statistics</h3>
+<h3 align="center">📊 My Statistics</h3>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=GitPolyakoff&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
