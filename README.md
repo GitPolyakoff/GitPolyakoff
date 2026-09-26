@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋 I'm Polyakoff</h1>
 
 <div align="center">
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=GitPolyakoff.GitPolyakoff" />
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=GitPolyakoff.GitPolyakoff" />
 </div>
 
 ###
@@ -32,8 +30,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=GitPolyakoff&theme=bear&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=GitPolyakoff&theme=bear&hide_border=true" alt="GitHub Streak" />
 </div>
-<br />
-
-###
